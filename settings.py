@@ -45,3 +45,24 @@ TOURNAMENTS_URL = 'https://www.marathonbet.com/en/betting/Football/England/Premi
 # TOURNAMENTS_URL = 'https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2018/Final+Tournament/Russia/'
 
 ###TOURNAMENTS_URL = 'https://www.marathonbet.com/en/betting/Football/Internationals/FIFA+World+Cup/2018/Final+Tournament/Russia/Group+Stage/Egypt+vs+Uruguay+-+6173501/'
+
+teams = {'Manchester City': 'MCI',
+         'Liverpool': 'LIV',
+         'Chelsea': 'CHE',
+         'Tottenham Hotspur': 'TOT',
+         'Arsenal': 'ARS',
+         'Manchester United': 'MUN',
+         'Wolverhampton Wanderers': 'WOL',
+         'Everton': 'EVE',
+         'Leicester City': 'LEI',
+         'West Ham United': 'WHU',
+         'Watford': 'WAT',
+         'Crystal Palace': 'CRY',
+         'Newcastle United': 'NEW',
+         'Bournemouth': 'BOU',
+         'Burnley': 'BUR',
+         'Southampton': 'SOU',
+         'Brighton & Hove Albion': 'BHA',
+         'Norwich City': 'NOR',
+         'Sheffield United': 'SHU',
+         'Aston Villa': 'AVL', }

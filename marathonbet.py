@@ -6,7 +6,7 @@ import os.path
 import requests
 from bs4 import BeautifulSoup
 from modules.parser import Parser, ParserPost
-from settings import TOURNAMENTS_URL
+from settings import TOURNAMENTS_URL, teams
 
 
 def write_csv(data):
@@ -126,6 +126,15 @@ def get_CS(html):
     return csHome, csAway
 
 
+def renameTeams(team):
+    """Change the name of the team to abbreviation"""
+    try:
+        abbr = teams[team]
+    except KeyError:
+        abbr = team
+    return abbr
+
+
 def get_pageData(html):
     """The main module for performing all operations of a request
        and writing to a file"""
@@ -135,8 +144,8 @@ def get_pageData(html):
     trs = soup.find_all('tr', class_='sub-row')
     for tr in trs:
         tds = tr.find_all('td', class_='name')
-        teamHome = tds[0].find('span').text.strip()
-        teamAway = tds[1].find('span').text.strip()
+        teamHome = renameTeams(tds[0].find('span').text.strip())
+        teamAway = renameTeams(tds[1].find('span').text.strip())
         matchDate_str = tr.find('td', class_='date').text.strip()
         nowDate, nowTime, matchDate, matchTime = refine_date(
             matchDate_str)
