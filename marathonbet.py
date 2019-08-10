@@ -143,7 +143,8 @@ def get_pageData(html):
     # print(soup)
     trs = soup.find_all('tr', class_='sub-row')
     for tr in trs:
-        tds = tr.find_all('td', class_='name')
+        # print(tr)
+        tds = tr.find_all('td', class_=re.compile('name'))
         teamHome = renameTeams(tds[0].find('span').text.strip())
         teamAway = renameTeams(tds[1].find('span').text.strip())
         matchDate_str = tr.find('td', class_='date').text.strip()
