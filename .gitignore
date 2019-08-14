@@ -1,0 +1,9 @@
+#
+.vscode
+
+# My proxies
+proxies.py
+
+# results of parsing - csv files
+data
+
