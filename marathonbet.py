@@ -11,7 +11,9 @@ from settings import TOURNAMENTS_URL, teams
 
 def write_csv(data):
     """Write data in csv file"""
-    with open('marathonbet.csv', 'a', encoding='utf-8') as file:
+    if not os.path.exists(os.path.dirname(FILENAME)):
+        os.makedirs(os.path.dirname(FILENAME))
+    with open(FILENAME, 'a', encoding='utf-8') as file:
         order = [
             'nowDate', 'nowTime',
             'matchDate', 'matchTime',
@@ -26,7 +28,7 @@ def write_csv(data):
 
 def run_once(f):
     def wrapper(*args, **kwargs):
-        wrapper.has_run = os.path.isfile('marathonbet.csv')
+        wrapper.has_run = os.path.isfile(FILENAME)
         if not wrapper.has_run:
             wrapper.has_run = True
             return f(*args, **kwargs)
@@ -199,4 +201,5 @@ def main():
 
 
 if __name__ == '__main__':
+    FILENAME = './data/marathonbet.csv'
     main()
