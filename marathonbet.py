@@ -182,11 +182,11 @@ def get_pageData(html):
         except LookupError:
             data.update({'team1_over25': ''})
         try:
-            data.update({'team2_over15': teams_over[1]['1.5']})
+            data.update({'team2_over15': teams_over[2]['1.5']})
         except LookupError:
             data.update({'team2_over15': ''})
         try:
-            data.update({'team2_over25': teams_over[1]['2.5']})
+            data.update({'team2_over25': teams_over[2]['2.5']})
         except LookupError:
             data.update({'team2_over25': ''})
 
