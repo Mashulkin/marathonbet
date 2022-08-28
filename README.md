@@ -2,43 +2,60 @@
 
 To run this application
 
-***EPL***
+
+**EPL**
 
 export SIMPLE_SETTINGS=settings.epl
+
 python teamsodds.py
 
-***Championship***
+
+**Championship**
 
 export SIMPLE_SETTINGS=settings.championship
+
 python teamsodds.py
 
-***Laliga***
+
+**Laliga**
 
 export SIMPLE_SETTINGS=settings.laliga
+
 python teamsodds.py
 
-***Serie A***
+
+**Serie A**
 
 export SIMPLE_SETTINGS=settings.seriea
+
 python teamsodds.py
 
-***Bundesliga***
+
+**Bundesliga**
 
 export SIMPLE_SETTINGS=settings.bundesliga
+
 python teamsodds.py
 
-***Ligue 1***
+
+**Ligue 1**
 
 export SIMPLE_SETTINGS=settings.ligue1
+
 python teamsodds.py
 
-***Champions League***
+
+**Champions League**
 
 export SIMPLE_SETTINGS=settings.championsleague
+
 python teamsodds.py
 
-***NHL***
+
+**NHL**
 
 export SIMPLE_SETTINGS=settings.nhl
+
 python teamsodds.py
+
 
