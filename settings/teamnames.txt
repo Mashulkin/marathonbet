@@ -1,0 +1,183 @@
+Manchester City:                MCI
+Liverpool:                      LIV
+Chelsea:                        CHE
+Tottenham Hotspur:              TOT
+Arsenal:                        ARS
+Manchester United:              MUN
+Wolverhampton Wanderers:        WOL
+Everton:                        EVE
+Leicester City:                 LEI
+West Ham United:                WHU
+Watford:                        WAT
+Crystal Palace:                 CRY
+Newcastle United:               NEW
+Bournemouth:                    BOU
+Burnley:                        BUR
+Southampton:                    SOU
+Brighton & Hove Albion:         BHA
+Norwich City:                   NOR
+Sheffield United:               SHU
+Aston Villa:                    AVL
+Cardiff City:                   CAR
+Fulham:                         FUL
+Huddersfield Town:              HUD
+Leeds United:                   LEE
+West Bromwich Albion:           WBA
+Derby County:                   DER
+Middlesbrough:                  MID
+Bristol City:                   BRI
+Nottingham Forest:              NFO
+Swansea City:                   SWA
+Sheffield Wednesday:            SHW
+Hull City:                      HUL
+Brentford:                      BRE
+Preston North End:              PRE
+Blackburn Rovers:               BLA
+Stoke City:                     STO
+Birmingham City:                BIR
+Wigan Athletic:                 WIG
+Queens Park Rangers:            QPR
+Reading:                        REA
+Millwall:                       MIL
+Luton Town:                     LUT
+Barnsley:                       BAR
+Charlton Athletic:              CHA
+Blackpool:                      BPL
+Peterborough United:            PET
+Coventry City:                  COV
+Sunderland:			SUN
+Rotherham United:		ROT
+Valencia:                       VAL
+Getafe:                         GET
+Osasuna:                        OSA
+Espanyol:                       ESP
+Cadiz:                          CAD
+Levante:                        LEV
+Mallorca:                       MAL
+Betis:                          BET
+Alaves:                         ALA
+Real Madrid:                    RMA
+Celta de Vigo:                  CEL
+Atletico Madrid:                ATM
+Barcelona:                      BAR
+Real Sociedad:                  SOC
+Sevilla:                        SEV
+Rayo Vallecano:                 RAY
+Villarreal:                     VIL
+Granada:                        GRA
+Elche:                          ELC
+Athletic Bilbao:                ATB
+Almeria:			ALM
+Valladolid:			VLD
+Girona:				GIR
+Inter:                          INT
+Genoa:                          GEN
+Verona:                         VER
+Sassuolo:                       SAS
+Empoli:                         EMP
+Lazio:                          LAZ
+Torino:                         TOR
+Atalanta:                       ATA
+Bologna:                        BOL
+Salernitana:                    SAL
+Udinese:                        UDI
+Juventus:                       JUV
+Napoli:                         NAP
+Venezia:                        VEN
+Roma:                           ROM
+Fiorentina:                     FIO
+Cagliari:                       CAG
+Spezia:                         SPE
+Sampdoria:                      SAM
+Milan:                          ACM
+Cremonese:			CRE
+Lecce:				LEC
+Monza:				MNZ
+Borussia Monchengladbach:       BMG
+Bayern Munich:                  BAY
+Arminia Bielefeld:              ARM
+Freiburg:                       FRE                       
+Augsburg:                       AUG
+1899 Hoffenheim:                HOF
+Stuttgart:                      STU
+Greuther Furth:                 GRE
+Union Berlin:                   UNI
+Bayer 04 Leverkusen:            LEV
+Wolfsburg:                      WLF
+Bochum:                         BOC
+Borussia Dortmund:              BVB
+Eintracht Frankfurt:            EIN
+Mainz 05:                       MAI
+RB Leipzig:                     RBL
+Koln:                           KOL
+Hertha Berlin:                  HER
+Schalke 04:			SCH
+Werder Bremen:			WER
+Monaco:                         MON
+Nantes:                         NAN
+Lyon:                           LYO
+Brest:                          BRE
+Troyes:                         TRO
+Paris Saint-Germain:            PSG
+Rennes:                         REN
+Lens:                           LEN
+Bordeaux:                       BOR
+Clermont:                       CLE
+Nice:                           NIC
+Reims:                          REI
+Saint-Etienne:                  SET
+Lorient:                        LOR
+Strasbourg:                     STR
+Angers:                         ANG
+Metz:                           MET
+Lille:                          LIL
+Montpellier:                    MPL
+Marseille:                      MAR
+Ajaccio:			AJA
+Auxerre:			AUX
+Toulouse:			TOU
+Red Bull Salzburg:              RBU
+Young Boys:                     YBO
+Zenit St Petersburg:            ZEN
+Dynamo Kyiv:                    DYN
+Benfica:                        BEN
+Malmo:                          MFF
+Besiktas:                       BES
+Sheriff:                        SHR
+Shakhtar Donetsk:               SHK
+Brugge:                         BRU
+Sporting Lisboa:                SPO
+Ajax:                           AJA
+Porto:                          POR
+Anaheim Ducks:              	ANA
+Arizona Coyotes:            	ARI
+Boston Bruins:              	BOS
+Buffalo Sabres:             	BUF
+Carolina Hurricanes:        	CAR
+Columbus Blue Jackets:      	CBJ
+Calgary Flames:             	CGY
+Chicago Blackhawks:         	CHI
+Colorado Avalanche:         	COL
+Dallas Stars:               	DAL
+Detroit Red Wings:          	DET
+Edmonton Oilers:            	EDM
+Florida Panthers:           	FLA
+Los Angeles Kings:          	LAK
+Minnesota Wild:             	MIN
+Montreal Canadiens:         	MTL
+New Jersey Devils:          	NJD
+Nashville Predators:           	NSH
+New York Islanders:         	NYI
+New York Rangers:           	NYR
+Ottawa Senators:	            OTT
+Philadelphia Flyers:	        PHI
+Pittsburgh Penguins:        	PIT
+Seattle Kraken:             	SEA
+San Jose Sharks:            	SJS
+Saint Louis Blues:            	STL
+Tampa Bay Lightning:        	TBL
+Toronto Maple Leafs:        	TOR
+Vancouver Canucks:          	VAN
+Vegas Golden Knights:       	VGK
+Winnipeg Jets:              	WPG
+Washington Capitals:        	WSH

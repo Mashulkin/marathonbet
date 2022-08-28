@@ -1,0 +1,10 @@
+team:           Team
+kefWin:         Win
+kefDraw:        Draw
+cs_yes:         CS_yes
+cs_no:          CS_no
+over25:         >2.5
+under25:        <2.5
+over15:         >1.5
+under15:        <1.5
+matchDate:      matchDate
