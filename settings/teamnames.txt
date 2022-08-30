@@ -149,6 +149,12 @@ Brugge:                         BRU
 Sporting Lisboa:                SPO
 Ajax:                           AJA
 Porto:                          POR
+FC Kobenhavn:                   COP
+Celtic:                         CLC
+Rangers:                        RAN
+Dinamo Zagreb:                  ZAG
+Maccabi Haifa:                  MAC
+Viktoria Plzen:                 VIK
 Anaheim Ducks:              	ANA
 Arizona Coyotes:            	ARI
 Boston Bruins:              	BOS
