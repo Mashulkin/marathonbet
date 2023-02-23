@@ -175,7 +175,7 @@ New Jersey Devils:          	NJD
 Nashville Predators:           	NSH
 New York Islanders:         	NYI
 New York Rangers:           	NYR
-Ottawa Senators:	            OTT
+Ottawa Senators:                OTT
 Philadelphia Flyers:	        PHI
 Pittsburgh Penguins:        	PIT
 Seattle Kraken:             	SEA
@@ -187,3 +187,35 @@ Vancouver Canucks:          	VAN
 Vegas Golden Knights:       	VGK
 Winnipeg Jets:              	WPG
 Washington Capitals:        	WSH
+Qatar:				QAT
+Ecuador:			ECU
+England:			ENG
+Iran:				IRN
+Senegal:			SEN
+Netherlands:			NED
+USA:				USA
+Wales:				WAL
+Argentina:			ARG
+Saudi Arabia:			KSA
+Denmark:			DEN
+Tunisia:			TUN
+Mexico:				MEX
+Poland:				POL
+France:				FRA
+Australia:			AUS
+Morocco:			MAR
+Croatia:			CRO
+Germany:			GER
+Japan:				JAP
+Spain:				SPA
+Costa Rica:			CRC
+Belgium:			BEL
+Canada:				CAN
+Switzerland:			SWI
+Cameroon:			CMR
+Uruguay:			URU
+Korea Republic:			KOR
+Portugal:			POR
+Ghana:				GHA
+Brazil:				BRA
+Serbia:				SRB
