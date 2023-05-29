@@ -45,8 +45,8 @@ Charlton Athletic:              CHA
 Blackpool:                      BPL
 Peterborough United:            PET
 Coventry City:                  COV
-Sunderland:			SUN
-Rotherham United:		ROT
+Sunderland:                     SUN
+Rotherham United:               ROT
 Valencia:                       VAL
 Getafe:                         GET
 Osasuna:                        OSA
@@ -67,9 +67,9 @@ Villarreal:                     VIL
 Granada:                        GRA
 Elche:                          ELC
 Athletic Bilbao:                ATB
-Almeria:			ALM
-Valladolid:			VLD
-Girona:				GIR
+Almeria:                        ALM
+Valladolid:                     VLD
+Girona:                         GIR
 Inter:                          INT
 Genoa:                          GEN
 Verona:                         VER
@@ -90,13 +90,13 @@ Cagliari:                       CAG
 Spezia:                         SPE
 Sampdoria:                      SAM
 Milan:                          ACM
-Cremonese:			CRE
-Lecce:				LEC
-Monza:				MNZ
+Cremonese:                      CRE
+Lecce:                          LEC
+Monza:                          MNZ
 Borussia Monchengladbach:       BMG
 Bayern Munich:                  BAY
 Arminia Bielefeld:              ARM
-Freiburg:                       FRE                       
+Freiburg:                       FRE
 Augsburg:                       AUG
 1899 Hoffenheim:                HOF
 Stuttgart:                      STU
@@ -111,8 +111,8 @@ Mainz 05:                       MAI
 RB Leipzig:                     RBL
 Koln:                           KOL
 Hertha Berlin:                  HER
-Schalke 04:			SCH
-Werder Bremen:			WER
+Schalke 04:                     SCH
+Werder Bremen:                  WER
 Monaco:                         MON
 Nantes:                         NAN
 Lyon:                           LYO
@@ -133,9 +133,9 @@ Metz:                           MET
 Lille:                          LIL
 Montpellier:                    MPL
 Marseille:                      MAR
-Ajaccio:			AJA
-Auxerre:			AUX
-Toulouse:			TOU
+Ajaccio:                        AJA
+Auxerre:                        AUX
+Toulouse:                       TOU
 Red Bull Salzburg:              RBU
 Young Boys:                     YBO
 Zenit St Petersburg:            ZEN
@@ -155,67 +155,87 @@ Rangers:                        RAN
 Dinamo Zagreb:                  ZAG
 Maccabi Haifa:                  MAC
 Viktoria Plzen:                 VIK
-Anaheim Ducks:              	ANA
-Arizona Coyotes:            	ARI
-Boston Bruins:              	BOS
-Buffalo Sabres:             	BUF
-Carolina Hurricanes:        	CAR
-Columbus Blue Jackets:      	CBJ
-Calgary Flames:             	CGY
-Chicago Blackhawks:         	CHI
-Colorado Avalanche:         	COL
-Dallas Stars:               	DAL
-Detroit Red Wings:          	DET
-Edmonton Oilers:            	EDM
-Florida Panthers:           	FLA
-Los Angeles Kings:          	LAK
-Minnesota Wild:             	MIN
-Montreal Canadiens:         	MTL
-New Jersey Devils:          	NJD
-Nashville Predators:           	NSH
-New York Islanders:         	NYI
-New York Rangers:           	NYR
+Anaheim Ducks:                  ANA
+Arizona Coyotes:                ARI
+Boston Bruins:                  BOS
+Buffalo Sabres:                 BUF
+Carolina Hurricanes:            CAR
+Columbus Blue Jackets:          CBJ
+Calgary Flames:                 CGY
+Chicago Blackhawks:             CHI
+Colorado Avalanche:             COL
+Dallas Stars:                   DAL
+Detroit Red Wings:              DET
+Edmonton Oilers:                EDM
+Florida Panthers:               FLA
+Los Angeles Kings:              LAK
+Minnesota Wild:                 MIN
+Montreal Canadiens:             MTL
+New Jersey Devils:              NJD
+Nashville Predators:            NSH
+New York Islanders:             NYI
+New York Rangers:               NYR
 Ottawa Senators:                OTT
-Philadelphia Flyers:	        PHI
-Pittsburgh Penguins:        	PIT
-Seattle Kraken:             	SEA
-San Jose Sharks:            	SJS
-Saint Louis Blues:            	STL
-Tampa Bay Lightning:        	TBL
-Toronto Maple Leafs:        	TOR
-Vancouver Canucks:          	VAN
-Vegas Golden Knights:       	VGK
-Winnipeg Jets:              	WPG
-Washington Capitals:        	WSH
-Qatar:				QAT
-Ecuador:			ECU
-England:			ENG
-Iran:				IRN
-Senegal:			SEN
-Netherlands:			NED
-USA:				USA
-Wales:				WAL
-Argentina:			ARG
-Saudi Arabia:			KSA
-Denmark:			DEN
-Tunisia:			TUN
-Mexico:				MEX
-Poland:				POL
-France:				FRA
-Australia:			AUS
-Morocco:			MAR
-Croatia:			CRO
-Germany:			GER
-Japan:				JAP
-Spain:				SPA
-Costa Rica:			CRC
-Belgium:			BEL
-Canada:				CAN
-Switzerland:			SWI
-Cameroon:			CMR
-Uruguay:			URU
-Korea Republic:			KOR
-Portugal:			POR
-Ghana:				GHA
-Brazil:				BRA
-Serbia:				SRB
+Philadelphia Flyers:            PHI
+Pittsburgh Penguins:            PIT
+Seattle Kraken:                 SEA
+San Jose Sharks:                SJS
+Saint Louis Blues:              STL
+Tampa Bay Lightning:            TBL
+Toronto Maple Leafs:            TOR
+Vancouver Canucks:              VAN
+Vegas Golden Knights:           VGK
+Winnipeg Jets:                  WPG
+Washington Capitals:            WSH
+Qatar:                          QAT
+Ecuador:                        ECU
+England:                        ENG
+Iran:                           IRN
+Senegal:                        SEN
+Netherlands:                    NED
+USA:                            USA
+Wales:                          WAL
+Argentina:                      ARG
+Saudi Arabia:                   KSA
+Denmark:                        DEN
+Tunisia:                        TUN
+Mexico:                         MEX
+Poland:                         POL
+France:                         FRA
+Australia:                      AUS
+Morocco:                        MAR
+Croatia:                        CRO
+Germany:                        GER
+Japan:                          JAP
+Spain:                          SPA
+Costa Rica:                     CRC
+Belgium:                        BEL
+Canada:                         CAN
+Switzerland:                    SWI
+Cameroon:                       CMR
+Uruguay:                        URU
+Korea Republic:                 KOR
+Portugal:                       POR
+Ghana:                          GHA
+Brazil:                         BRA
+Serbia:                         SRB
+America-MG:                     AME
+Athletico Paranaense:           APA
+Atletico-MG:                    AMG
+Bahia:                          BAH
+Botafogo-RJ:                    BOT
+Corinthians-SP:                 COR
+Coritiba:                       CTB
+Cruzeiro-MG:                    CRU
+Cuiaba:                         CUI
+Flamengo:                       FLA
+Fluminense:                     FLU
+Fortaleza-CE:                   FOR
+Goias:                          GOI
+Gremio:                         GRE
+Internacional-RS:               INT
+Palmeiras:                      PAL
+RB Bragantino:                  RBB
+Santos:                         SAN
+Sao Paulo:                      SPL
+Vasco da Gama-RJ:               VAS
