@@ -70,6 +70,7 @@ Athletic Bilbao:                ATB
 Almeria:                        ALM
 Valladolid:                     VLD
 Girona:                         GIR
+Las Palmas:                     LPL
 Inter:                          INT
 Genoa:                          GEN
 Verona:                         VER
@@ -113,6 +114,8 @@ Koln:                           KOL
 Hertha Berlin:                  HER
 Schalke 04:                     SCH
 Werder Bremen:                  WER
+Darmstadt 98:                   DAR
+Heidenheim:                     HEI
 Monaco:                         MON
 Nantes:                         NAN
 Lyon:                           LYO
@@ -136,6 +139,7 @@ Marseille:                      MAR
 Ajaccio:                        AJA
 Auxerre:                        AUX
 Toulouse:                       TOU
+Le Havre:                       LHA
 Red Bull Salzburg:              RBU
 Young Boys:                     YBO
 Zenit St Petersburg:            ZEN
