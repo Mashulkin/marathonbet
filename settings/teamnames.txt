@@ -95,6 +95,7 @@ Cremonese:                      CRE
 Lecce:                          LEC
 Monza:                          MNZ
 Borussia Monchengladbach:       BMG
+Frosinone:                      FRO
 Bayern Munich:                  BAY
 Arminia Bielefeld:              ARM
 Freiburg:                       FRE
