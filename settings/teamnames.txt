@@ -246,7 +246,7 @@ Sao Paulo:                      SPL
 Vasco da Gama-RJ:               VAS
 Galatasaray:                    GAL
 PSV Eindhoven:                  PSV
-Braga:                          BRG
+Sporting Braga:                 BRG
 Feyenoord:                      FEY
 Crvena Zvezda:                  CRV
 Antwerp:                        ANT
