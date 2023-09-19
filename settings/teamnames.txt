@@ -244,3 +244,9 @@ RB Bragantino:                  RBB
 Santos:                         SAN
 Sao Paulo:                      SPL
 Vasco da Gama-RJ:               VAS
+Galatasaray:                    GAL
+PSV Eindhoven:                  PSV
+Braga:                          BRG
+Feyenoord:                      FEY
+Crvena Zvezda:                  CRV
+Antwerp:                        ANT
