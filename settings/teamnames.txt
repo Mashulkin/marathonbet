@@ -47,6 +47,7 @@ Peterborough United:            PET
 Coventry City:                  COV
 Sunderland:                     SUN
 Rotherham United:               ROT
+Ipswich Town:                   IPS
 Valencia:                       VAL
 Getafe:                         GET
 Osasuna:                        OSA

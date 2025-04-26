@@ -19,8 +19,8 @@ from bs4 import BeautifulSoup
 
 
 __author__ = 'Vadim Arsenev'
-__version__ = '1.0.0'
-__data__ = '07.08.2021'
+__version__ = '1.1.0'
+__data__ = '26.04.2025'
 
 
 ORDER = list(map(lambda x: x.split(':')[0].strip(), \
@@ -38,28 +38,28 @@ def get_pageData(html):
 
     soup = BeautifulSoup(html, 'lxml')
 
-    trs = soup.find_all('tr', class_='sub-row')
+    trs = soup.find_all('div', class_='bg coupon-row')
     for tr in trs:
-        tds = tr.find_all('td', class_=re.compile('name'))
+        tds = tr.find_all('span', class_='member')
         teamHome = renameTeams(tds[0].find('span').text.strip())
-        teamAway = renameTeams(tds[1].find('span').text.strip())
-        matchDate_str = tr.find('td', class_='date').text.strip()
+        teamAway = renameTeams(tds[1].find('span').find_next('span').text.strip())
+        matchDate_str = tr.find('div', class_='score-and-time').find('span').text.strip()
         nowDate, nowTime, matchDate, matchTime = refine_date(
             matchDate_str)
 
         print(f'{matchDate}: {teamHome} - {teamAway}')
         tds = tr.find_all('td', colspan='2')
         try:
-            kefWin = float(tds[0].text.strip())
-            kefDraw = float(tds[1].text.strip())
-            kefLose = float(tds[2].text.strip())
+            kefWin = float(tds[0].find('span', class_='right-simple').text.strip())
+            kefDraw = float(tds[1].find('span', class_='right-simple').text.strip())
+            kefLose = float(tds[2].find('span', class_='right-simple').text.strip())
         except ValueError:
-            kefWin = float(tds[1].text.strip())
-            kefDraw = float(tds[2].text.strip())
-            kefLose = float(tds[3].text.strip())
+            kefWin = float(tds[1].find('span', class_='right-simple').text.strip())
+            kefDraw = float(tds[2].find('span', class_='right-simple').text.strip())
+            kefLose = float(tds[3].find('span', class_='right-simple').text.strip())
         try:
             treeid = tr.find_all(
-                'td', class_='member-area-button')[1].get('treeid')
+                'td', class_='member-area-button')[0].get('treeid')
         except IndexError:
             continue
 
