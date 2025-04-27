@@ -8,13 +8,13 @@ __data__ = '27.04.2025'
 # format: markets_url = 'https://www.marathonbet.com/en/markets.htm'
 MARKETS_URL = 'https://www.marathonbet.com/en/markets.htm'
 
-# Russia. Premier League
-TOURNAMENTS_URL = 'https://www.marathonbet.com/en/betting/Football/Russia/Premier+League+-+22433?interval=ALL_TIME'
+# USA. MLS
+TOURNAMENTS_URL = 'https://www.marathonbet.com/en/betting/Football/USA/MLS+-+138152?interval=ALL_TIME'
 
 # for odds only
 COLUMNS = './settings/odds.txt'
 # for terminal and .exe in Windows
-RESULT_FILE = ['./data/oddsRpl.csv']
+RESULT_FILE = ['./data/oddsMls.csv']
 
 # team names
 TEAMS = './settings/teamnames.txt'

@@ -266,3 +266,33 @@ Rostov:                         ROS
 FC Nizhny Novgorod:             NNO
 Krylia Sovetov:                 KRY
 Dynamo Moscow:                  DMO
+Atlanta United:                 ATU
+Nashville:                      NAS
+Toronto FC:                     TOR
+New England Revolution:         NER
+D.C. United:                    DCU
+Colorado Rapids:                COR
+Columbus Crew:                  COC
+Charlotte FC:                   CHA
+Inter Miami:                    INT
+New York Red Bulls:             RBU
+Montreal:                       MON
+Philadelphia Union:             PHI
+Austin FC:                      AUS
+Minnesota United:               MIN
+Chicago Fire:                   CHI
+Orlando City:                   ORL
+San Diego FC:                   SDI
+FC Dallas:                      DAL
+Vancouver Whitecaps:            VAN
+Real Salt Lake:                 RSL
+Los Angeles FC:                 LAN
+Houston Dynamo:                 HOU
+San Jose Earthquakes:           SJE
+Portland Timbers:               POR
+Seattle Sounders:               SEA
+St. Louis CITY:                 SLC
+New York City:                  NYC
+FC Cincinnati:                  CIN
+Sporting Kansas City:           SPO
+Los Angeles Galaxy:             LAG
