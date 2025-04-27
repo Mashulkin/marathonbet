@@ -251,3 +251,18 @@ Sporting Braga:                 BRG
 Feyenoord:                      FEY
 Crvena Zvezda:                  CRV
 Antwerp:                        ANT
+Akron:                          AKR
+Dynamo Makhachkala:             DMA
+Lokomotiv Moscow:               LOK
+Orenburg:                       ORE
+Krasnodar:                      KRA
+Rubin Kazan:                    RUB
+Fakel:                          FAK
+Spartak Moscow:                 SPA
+Akhmat Grozny:                  AKH
+CSKA Moscow:                    CSK
+Khimki:                         KHI
+Rostov:                         ROS
+FC Nizhny Novgorod:             NNO
+Krylia Sovetov:                 KRY
+Dynamo Moscow:                  DMO
