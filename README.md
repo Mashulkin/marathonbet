@@ -59,3 +59,10 @@ export SIMPLE_SETTINGS=settings.nhl
 python teamsodds.py
 
 
+**RPL**
+
+export SIMPLE_SETTINGS=settings.rpl
+
+python teamsodds.py
+
+

@@ -266,6 +266,8 @@ Rostov:                         ROS
 FC Nizhny Novgorod:             NNO
 Krylia Sovetov:                 KRY
 Dynamo Moscow:                  DMO
+Baltika:                        BAL
+FC Sochi:                       SOC
 Atlanta United:                 ATU
 Nashville:                      NAS
 Toronto FC:                     TOR
